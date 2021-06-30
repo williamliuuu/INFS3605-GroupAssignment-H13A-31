@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Infs3605_H13A31">
         <activity android:name=".RegisterActivity"></activity>
+        <activity android:name=".HomeActivity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
