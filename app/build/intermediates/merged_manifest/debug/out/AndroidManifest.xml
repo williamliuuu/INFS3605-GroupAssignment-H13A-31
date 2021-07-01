@@ -18,6 +18,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Infs3605_H13A31" >
+        <activity android:name="com.example.infs3605_h13a31.RegisterActivity" />
         <activity android:name="com.example.infs3605_h13a31.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -2,3 +2,11 @@ com/example/infs3605_h13a31/BuildConfig.java
  com.example.infs3605_h13a31.BuildConfig
 com/example/infs3605_h13a31/MainActivity.java
  com.example.infs3605_h13a31.MainActivity
+ com.example.infs3605_h13a31.MainActivity$1
+ com.example.infs3605_h13a31.MainActivity$2
+com/example/infs3605_h13a31/HomeActivity.java
+ com.example.infs3605_h13a31.HomeActivity
+com/example/infs3605_h13a31/RegisterActivity.java
+ com.example.infs3605_h13a31.RegisterActivity
+ com.example.infs3605_h13a31.RegisterActivity$1
+ com.example.infs3605_h13a31.RegisterActivity$2
