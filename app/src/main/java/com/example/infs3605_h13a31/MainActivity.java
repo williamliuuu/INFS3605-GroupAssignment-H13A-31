@@ -174,5 +174,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private void updateUI(FirebaseUser currentUser) {
 
+
+
+
+        ////fdfdsfsd/fsdfdsfsfdsfdsfdsfsdf
     }
 }
